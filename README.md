@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Todo Lisitng App!
+
+## Live Demo
+
+https://anjana543.github.io/todo-app/
 
 ## Available Scripts
 
